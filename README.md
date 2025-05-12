@@ -19,7 +19,7 @@ A minimal and offline-first Notes app built using **Flutter** and **Hive** for l
 
 ## 📱 Screenshots
 
-| Add Notes Screen | Notes List | Notes List |
+| All Notes Screen | Add Notes Dialog | Edit Notes Dialog |
 |------------------|-------------| -------------|
 | ![All Notes](https://github.com/AbdullahProjects/hive-Notes-App-Project-/blob/main/Demo/Screenshot%202025-05-12%20125137.png) | ![Add Note](https://github.com/AbdullahProjects/hive-Notes-App-Project-/blob/main/Demo/Screenshot%202025-05-12%20125209.png) | ![Edit Note](https://github.com/AbdullahProjects/hive-Notes-App-Project-/blob/main/Demo/Screenshot%202025-05-12%20125153.png) |
 
@@ -27,6 +27,6 @@ A minimal and offline-first Notes app built using **Flutter** and **Hive** for l
 
 ## 🎬 Demo
 
-https://github.com/your-username/your-repo/assets/demo.gif
+![Demo Video GIF](https://github.com/AbdullahProjects/hive-Notes-App-Project-/blob/main/Demo/Screen-Recording-2025-05-12-121601.gif)
 
 ---
