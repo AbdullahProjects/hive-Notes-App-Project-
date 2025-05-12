@@ -27,6 +27,6 @@ A minimal and offline-first Notes app built using **Flutter** and **Hive** for l
 
 ## 🎬 Demo
 
-![Demo Video GIF](https://github.com/AbdullahProjects/hive-Notes-App-Project-/blob/main/Demo/Screen-Recording-2025-05-12-121601.gif)
+![Demo Video GIF](https://github.com/AbdullahProjects/hive-Notes-App-Project-/raw/main/Demo/Screen-Recording-2025-05-12-121601.gif)
 
 ---
